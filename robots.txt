@@ -1,4 +1,3 @@
 # robotstxt.org/
 
-Hi
 User-agent: *
