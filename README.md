@@ -12,3 +12,5 @@ Sample website with plenty of files for demos
 This is a simple web project, deployment can be on any web server 
 
 ## How to Contribute
+Lets see
+I should be in the working directory
